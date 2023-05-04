@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>deploy is success</h2>
+<h2>pipeline is success</h2>
 </body>
 </html>
